@@ -12,3 +12,11 @@ Desafio de projetos DIO, análise de dados com Python e Pandas
 * Pandas
 * Matplotlib
 
+**Modificações Realizadas:**
+
+* Criação do data frame receita_cidade
+* Criando o gráfico receita por cidades
+* Criando o data frame media_venda_cidades
+* Criando o gráfico média de vendas por cidades
+* Gerando a receita Anual
+* Vendas do Mês de Março por Lojas
